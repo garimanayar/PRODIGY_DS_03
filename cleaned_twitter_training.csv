@@ -1,0 +1,5 @@
+entity,sentiment,text
+Apple,Positive,I love the new iPhone from Apple!
+Google,Negative,Google's latest update is frustrating.
+Amazon,Neutral,"Amazon delivery is okay, nothing special."
+Tesla,Positive,Tesla cars are amazing and futuristic!
