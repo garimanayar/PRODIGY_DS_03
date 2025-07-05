@@ -22,9 +22,8 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 - Visualized sentiment distribution with a bar chart
 - Generated word clouds for each sentiment type
 
-
-## ✅ Sample Output
-![Sentiment Chart](images/sentiment_distribution.png)
+sample output
+![image](https://github.com/user-attachments/assets/4e10f98a-3879-4ba7-a5c2-b113eb73d055)
 
 ## 🔗 Outcome
 This analysis provides insight into the distribution and frequent language patterns behind different sentiments on social media.
